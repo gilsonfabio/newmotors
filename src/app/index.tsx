@@ -14,7 +14,7 @@ export default function Index() {
                     <Image source={require('@/assets/images/logomarca_rodape.png')} alt="" resizeMode="cover" style={styles.imgLogo} />
                 </View>
                 
-                <Link href={{pathname: "/"}} asChild>
+                <Link href={{pathname: "./signIn"}} asChild>
                     <Pressable style={styles.button}>
                         <Text style={styles.txtButton}>Entrar</Text>
                     </Pressable>
