@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742791317676",
+    "project_id": "carmotors-27b80",
+    "storage_bucket": "carmotors-27b80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742791317676:android:5e4fdbaa1366963c8c7709",
+        "android_client_info": {
+          "package_name": "com.gilsonfabio.carmotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANV1fYjB2Ce9USVVddVXBYjbM1dk3PEwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
